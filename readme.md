@@ -8,7 +8,7 @@ I'm a self-taught full-stack developer specializing in **SvelteKit** and the **T
 A browser-based RTS demo built with **Phaser 3** and **SvelteKit**.
 
 - Docs: https://kshwadip.vercel.app/#projects
-- Repo: `minirts`
+- Repo: `miniRTS`
 
 ---
 
@@ -23,7 +23,7 @@ A fast, minimal expense tracker.
 **Landing Page Engine**  
 A config-driven SvelteKit engine for shipping client landing pages in days instead of weeks.
 
-- Repo: `static-site`
+- Repo: `site-template`
 
 Examples:
 - Clinic — https://moriya-clinic.onrender.com
