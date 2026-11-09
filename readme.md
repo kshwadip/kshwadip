@@ -20,6 +20,9 @@ A fast, minimal expense tracker.
 
 - Live: [Demo](https://t3-expense-tracker-zeta.vercel.app)
 
+## Scribble 
+
+**cluster honey this load prison punch stand afraid purpose school lounge winner**
 ---
 
 **[Landing Page Engine](https://github.com/kshwadip/site-template)**
